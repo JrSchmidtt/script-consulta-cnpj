@@ -1,6 +1,5 @@
 # script-consulta-cnpj
 Script simples para consulta de cnpj utilizando a api da receita federal é salva os dados em um arquivo csv.
-```
 
 ## Como utilizar
 
